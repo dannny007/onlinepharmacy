@@ -1,0 +1,205 @@
+[
+{
+ "drug_type": "Tablet",
+ "drug_name": "Tadalafil",
+ "weight": "10mg",
+ "Price": "10$",
+ "shipping_duration": "3days",
+ "shipping_cost": "3$",
+ "barcode":5677888455,
+ "rating": 3.5,
+ "prescription": "see doctor",
+ "manufacturers": "novartis",
+ "promo": false
+
+},
+
+{
+ "drug_type": "Tablet",
+ "drug_name": "Tadalafil",
+ "weight": "10mg",
+ "Price": "10$",
+ "shipping_duration": "3days",
+ "shipping_cost": "3$",
+ "barcode":5677888455,
+ "rating": 3.5,
+ "prescription": "see doctor",
+ "manufacturers":"novartis",
+ "promo":true
+},
+
+{
+ "drug_type": "Tablet",
+ "drug_name": "Tadalafil",
+ "weight": "10mg",
+ "Price": "10$",
+ "shipping_duration": "3days",
+ "shipping_cost": "3$",
+ "barcode":5677888455,
+ "rating": 3.5,
+ "prescription": "see doctor",
+ "manufacturers":"novartis",
+ "promo":true
+
+
+},
+
+{
+ "drug_type": "Tablet",
+ "drug_name": "Tadalafil",
+ "weight": "10mg",
+ "Price": "10$",
+ "shipping_duration": "3days",
+ "shipping_cost": "3$",
+ "barcode":5677888455,
+ "rating": 3.5,
+ "prescription": "see doctor",
+ "manufacturers":"novartis",
+ "promo":true
+},
+{
+ "drug_type": "Tablet",
+ "drug_name": "Tadalafil",
+ "weight": "10mg",
+ "Price": "10$",
+ "shipping_duration": "3days",
+ "shipping_cost": "3$",
+ "barcode":5677888455,
+ "rating": 3.5,
+ "prescription": "see doctor",
+ "manufacturers":"novartis",
+ "promo":true
+},
+{
+ "drug_type": "Tablet",
+ "drug_name": "Tadalafil",
+ "weight": "10mg",
+ "Price": "10$",
+ "shipping_duration": "3days",
+ "shipping_cost": "3$",
+ "barcode":5677888455,
+ "rating": 3.5,
+ "prescription": "see doctor",
+ "manufacturers":"novartis",
+ "promo":true
+},
+{
+ "drug_type": "Tablet",
+ "drug_name": "Tadalafil",
+ "weight": "10mg",
+ "Price": "10$",
+ "shipping_duration": "3days",
+ "shipping_cost": "3$",
+ "barcode":5677888455,
+ "rating": 3.5,
+ "prescription": "see doctor",
+ "manufacturers":"novartis",
+ "promo":true
+},
+{
+ "drug_type": "Tablet",
+ "drug_name": "Tadalafil",
+ "weight": "10mg",
+ "Price": "10$",
+ "shipping_duration": "3days",
+ "shipping_cost": "3$",
+ "barcode":5677888455,
+ "rating": 3.5,
+ "prescription": "see doctor",
+ "manufacturers":"novartis",
+ "promo":true
+},
+{
+ "drug_type": "Tablet",
+ "drug_name": "Tadalafil",
+ "weight": "10mg",
+ "Price": "10$",
+ "shipping_duration": "3days",
+ "shipping_cost": "3$",
+ "barcode":5677888455,
+ "rating": 3.5,
+ "prescription": "see doctor",
+ "manufacturers":"novartis",
+ "promo":true
+},
+{
+ "drug_type": "Tablet",
+ "drug_name": "Tadalafil",
+ "weight": "10mg",
+ "Price": "10$",
+ "shipping_duration": "3days",
+ "shipping_cost": "3$",
+ "barcode":5677888455,
+ "rating": 3.5,
+ "prescription": "see doctor",
+ "manufacturers":"novartis",
+ "promo":true
+},
+{
+ "drug_type": "Tablet",
+ "drug_name": "Tadalafil",
+ "weight": "10mg",
+ "Price": "10$",
+ "shipping_duration": "3days",
+ "shipping_cost": "3$",
+ "barcode":5677888455,
+ "rating": 3.5,
+ "prescription": "see doctor",
+ "manufacturers":"novartis",
+ "promo":true
+},
+{
+ "drug_type": "Tablet",
+ "drug_name": "Tadalafil",
+ "weight": "10mg",
+ "Price": "10$",
+ "shipping_duration": "3days",
+ "shipping_cost": "3$",
+ "barcode":5677888455,
+ "rating": 3.5,
+ "prescription": "see doctor",
+ "manufacturers":"novartis",
+ "promo":true
+},
+{
+ "drug_type": "Tablet",
+ "drug_name": "Tadalafil",
+ "weight": "10mg",
+ "Price": "10$",
+ "shipping_duration": "3days",
+ "shipping_cost": "3$",
+ "barcode":5677888455,
+ "rating": 3.5,
+ "prescription": "see doctor",
+ "manufacturers":"novartis",
+ "promo":true
+},
+{
+ "drug_type": "Tablet",
+ "drug_name": "Tadalafil",
+ "weight": "10mg",
+ "Price": "10$",
+ "shipping_duration": "3days",
+ "shipping_cost": "3$",
+ "barcode":5677888455,
+ "rating": 3.5,
+ "prescription": "see doctor",
+ "manufacturers":"novartis",
+ "promo":true
+},
+{
+ "drug_type": "Tablet",
+ "drug_name": "Tadalafil",
+ "weight": "10mg",
+ "Price": "10$",
+ "shipping_duration": "3days",
+ "shipping_cost": "3$",
+ "barcode":5677888455,
+ "rating": 3.5,
+ "prescription": "see doctor",
+ "manufacturers":"novartis",
+ "promo":true
+}
+
+
+]
