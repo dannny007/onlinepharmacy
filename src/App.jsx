@@ -1,23 +1,25 @@
-import { useState } from 'react'
-import Home from './componenets/Home/Home'
-import ProductPage from './componenets/ProductPage'
-import './App.css'
-import { ProductProvider } from './Context/Productcontext'
+import { useState } from "react";
+import Home from "./componenets/Home/Home";
+import ProductPage from "./componenets/ProductPage";
+import "./App.css";
+import { ProductProvider } from "./Context/Productcontext";
 import { Route, Routes } from "react-router-dom";
+import Root from "./componenets/Root";
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState(0);
 
   return (
-    
-  
     <ProductProvider>
       <Routes>
-      <Route path="home" element={<Home/>} />
-      <Route path="product" element={<ProductPage />} />
+        <Route path="/" element={<Root />}>
+          <Route index element={<Home />} />
+          <Route path="home" element={<Home />} />
+          <Route path="product" element={<ProductPage />} />
+        </Route>
       </Routes>
     </ProductProvider>
-  )
+  );
 }
 
-export default App
+export default App;
