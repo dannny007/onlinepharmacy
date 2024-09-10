@@ -1,8 +1,8 @@
 import { useState } from "react";
 import Home from "./componenets/Home/Home";
-import ProductPage from "./componenets/ProductPage";
+import ProductPage from "./componenets/Product/ProductPage";
 import "./App.css";
-import { ProductProvider } from "./Context/Productcontext";
+import { ProductProvider } from "./Contexts/Productcontext";
 import { Route, Routes } from "react-router-dom";
 import Root from "./componenets/Root";
 

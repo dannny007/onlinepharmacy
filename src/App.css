@@ -17,3 +17,6 @@
     border-radius: 20px;
   }
 }
+#root {
+  flex: 1;
+}

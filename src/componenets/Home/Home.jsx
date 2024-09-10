@@ -1,14 +1,10 @@
 import React, { useContext } from "react";
-import { Productcontext } from "../../Context/Productcontext";
+import { Productcontext } from "../../Contexts/Productcontext";
 import "./Home.css";
 function Home() {
   const { info } = useContext(Productcontext);
   return (
     <div id="home">
-      <header>
-        <h1>Welcome to HealthDirect</h1>
-      </header>
-
       <div class="hero-section">
         <h2>Your Trusted Online Pharmacy</h2>
         <p>
@@ -44,10 +40,6 @@ function Home() {
           </p>
         </div>
       </section>
-
-      <footer>
-        <p>&copy; 2024 HealthDirect. All Rights Reserved.</p>
-      </footer>
     </div>
   );
 }
